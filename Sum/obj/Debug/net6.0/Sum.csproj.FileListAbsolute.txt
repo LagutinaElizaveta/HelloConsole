@@ -1,0 +1,15 @@
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\bin\Debug\net6.0\Sum.exe
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\bin\Debug\net6.0\Sum.deps.json
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\bin\Debug\net6.0\Sum.runtimeconfig.json
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\bin\Debug\net6.0\Sum.dll
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\bin\Debug\net6.0\Sum.pdb
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.csproj.AssemblyReference.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.AssemblyInfoInputs.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.AssemblyInfo.cs
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.csproj.CoreCompileInputs.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.dll
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\refint\Sum.dll
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.pdb
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\Sum.genruntimeconfig.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Sum\obj\Debug\net6.0\ref\Sum.dll
