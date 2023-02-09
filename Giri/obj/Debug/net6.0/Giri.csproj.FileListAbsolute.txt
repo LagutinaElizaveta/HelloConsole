@@ -1,0 +1,15 @@
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\bin\Debug\net6.0\Giri.exe
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\bin\Debug\net6.0\Giri.deps.json
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\bin\Debug\net6.0\Giri.runtimeconfig.json
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\bin\Debug\net6.0\Giri.dll
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\bin\Debug\net6.0\Giri.pdb
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.csproj.AssemblyReference.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.AssemblyInfoInputs.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.AssemblyInfo.cs
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.csproj.CoreCompileInputs.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.dll
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\refint\Giri.dll
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.pdb
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\Giri.genruntimeconfig.cache
+D:\Обучение на GB\Предметы\Знакомство с языками программирования\Лекция 1\Example\Giri\obj\Debug\net6.0\ref\Giri.dll
